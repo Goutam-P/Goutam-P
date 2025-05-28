@@ -1,65 +1,99 @@
-# 👋 Hi, I'm Goutham Aditya Pelluri
+<h1 align="center">👋 Hey there, I'm Goutham Aditya Pelluri</h1>
 
-🎯 **Data Engineer | Cloud Architect | Big Data Enthusiast**  
-🌐 [LinkedIn](https://www.linkedin.com/in/gouthampelluri) • 📫 goutampelluri@gmail.com • 🧠 [Resume](https://github.com/Goutam-P)  
+<p align="center">
+  🚀 Data Engineer | 🌩️ Cloud Optimizer | 🧠 ML-Driven Architect | 🛠️ Pipeline Perfectionist  
+</p>
 
----
-
-### 🧑‍💻 About Me
-
-I'm a results-driven **Data Engineer** with 3+ years of experience designing scalable ETL pipelines, building cloud-native architectures, and enabling real-time analytics across **AWS, Azure, and GCP**. My work spans enterprise-grade batch and streaming pipelines, ML integration, infrastructure as code, and performance optimization.
-
-Currently solving complex data challenges at **US Bank**, I specialize in transforming raw data into reliable, actionable intelligence that drives business outcomes.
-
----
-
-### 🔧 Tech Stack
-
-- **Languages**: Python, SQL, Scala, Java  
-- **Cloud Platforms**: AWS (S3, Glue, Redshift), Azure (ADF, Synapse), GCP (BigQuery, Dataflow)  
-- **Big Data**: Apache Spark, Kafka, Hadoop, Airflow, EMR, Databricks  
-- **Databases**: PostgreSQL, SQL Server, MongoDB, Cassandra, Teradata  
-- **DevOps**: Terraform, Git, Jenkins, Azure DevOps, Docker, Kubernetes  
-- **Visualization**: Power BI, Tableau, Looker  
-- **ML/AI**: Scikit-learn, Hugging Face, SageMaker, Spark MLlib  
+<p align="center">
+  <a href="mailto:goutampelluri@gmail.com">📧 Email</a> • 
+  <a href="https://www.linkedin.com/in/gouthampelluri">🔗 LinkedIn</a> • 
+  <a href="https://github.com/Goutam-P">💻 GitHub</a> • 
+  <a href="https://www.credly.com/badges/f98467e5-197e-4714-a2b0-65e3c98acac7/public_url">🏅 AWS Certified</a>
+</p>
 
 ---
 
-### 🚀 Featured Projects
+### 🌟 About Me
 
-#### 🔹 [Real-Time Retail Analytics Data Pipeline](https://github.com/Goutam-P)  
-**Tech:** Kafka, PySpark, Redshift, Airflow, Terraform  
-Built a real-time retail data pipeline from Kafka to Redshift with PySpark and Airflow. Supports low-latency analytics and monitoring for BI teams across AWS services.
+I'm not just a **Data Engineer**, I’m a **data storyteller** who engineers meaning out of chaos.  
+I craft cloud-native pipelines that hum at scale, automate workflows like clockwork, and transform data into strategic gold.  
 
-#### 🔹 [AI-Powered Resume Analyzer](https://github.com/Goutam-P)  
-**Tech:** Python, Streamlit, Hugging Face, FAISS, OpenAI  
-Built an LLM-based tool that matches resumes to job descriptions and gives AI-generated feedback using FAISS for semantic search and LangChain for prompt workflows.
-
-#### 🔹 [Hadoop-Based Sentiment Trends Analysis](https://github.com/Goutam-P)  
-**Tech:** Java, MapReduce, Hive, NLP  
-Analyzed emotional language trends over decades using historical literary texts. Optimized big data processing with Hive UDFs and Hadoop pipelines.
+🎓 Currently polishing my skills as a **Master’s student at UNC Charlotte** (May 2025).  
+🌐 I speak fluent **Python**, dream in **Spark**, and deploy on **AWS, Azure, and GCP**.  
+🎯 My goal? Help organizations turn petabytes into possibilities.
 
 ---
 
-### 📈 Current Focus
+### ⚒️ What I Build
 
-- Enhancing multi-cloud orchestration with Airflow + Terraform  
-- Building robust CI/CD workflows for data pipelines  
-- Experimenting with vector databases + GenAI for semantic search  
-- Optimizing Spark performance for cost-effective scale  
-
----
-
-### 📜 Certifications & Publications
-
-- **AWS Certified Data Engineer – Associate**  
-- [COVID-19 Preventions Control System](https://ijsrcseit.com/CSEIT228615)
+- ⚡ **Real-time pipelines** that never sleep (Kafka + Spark Streaming + Airflow)
+- 🔄 **Modular ETL architectures** (ADF + Databricks + Terraform)
+- 📊 **BI-friendly lakes and warehouses** (Redshift, Synapse, BigQuery)
+- 🤖 **ML-integrated data flows** (LLMs, MLlib, Hugging Face)
 
 ---
 
-> “Build pipelines that flow like code, scale like architecture, and deliver like product.”  
-> — Goutham Aditya Pelluri
+### 🧠 Tech Stack I Love
+
+| Area              | Tools & Tech |
+|------------------|--------------|
+| ☁️ Cloud          | AWS, Azure, GCP |
+| 🔥 Big Data       | PySpark, SparkSQL, Hive, Kafka, Airflow, EMR |
+| 🗄️ Databases       | PostgreSQL, MongoDB, Cassandra, Teradata |
+| 🧪 ETL & DevOps    | ADF, Glue, Terraform, Jenkins, Docker |
+| 📈 Viz & ML       | Power BI, Tableau, Scikit-learn, MLflow, Hugging Face |
+| 📦 Infra & Code   | Git, Azure DevOps, CloudWatch, Boto3 |
 
 ---
 
-🌟 _Check out my repositories below!_ I'm always open to collaboration, feedback, and new opportunities in the data space.
+### 🚀 Highlight Reel
+
+#### 🟢 **US Bank | Data Engineer**
+- ⛓️ Built cross-cloud ETL flows across **Azure & AWS**
+- ⚙️ Optimized reporting latency by **40%** using **SAS**, **Teradata**, and **Synapse**
+- 📦 Automated ingestion from APIs, SFTP, and cloud blobs
+
+#### 🔵 **Caliber Technologies | Data Engineer**
+- ☁️ Migrated **20TB+** from on-prem to **Data Lakes**
+- 📉 Reduced pipeline dev time by **40%** using reusable frameworks
+- 🛠️ Integrated monitoring with CloudWatch & Azure Monitor
+
+---
+
+### 🌈 Side Projects I'm Proud Of
+
+#### ✨ [AI Resume Analyzer & Job Matcher](https://github.com/Goutam-P)
+> Your resume’s personal GPT-powered coach — built using Hugging Face, FAISS, and LangChain.
+
+#### 📊 [Real-Time Retail Analytics](https://github.com/Goutam-P)
+> Kafka-powered, Redshift-backed retail insights delivered in milliseconds. All infra built with Terraform.
+
+#### 📚 [Sentiment Trends on Literature](https://github.com/Goutam-P)
+> Decades of literature, mined and scored with NLP magic via Hive + MapReduce.
+
+---
+
+### 🎓 Education
+
+- 🎓 **MS in CS** – UNC Charlotte, 2025  
+- 🎓 **BTech in CS** – Hindustan Institute of Technology & Sciences, 2023  
+
+---
+
+### 🏆 Certifications
+
+- 🥇 [AWS Certified Data Engineer – Associate](https://www.credly.com/badges/f98467e5-197e-4714-a2b0-65e3c98acac7/publicurl)  
+- 📃 [COVID Prevention System – Published Research](https://ijsrcseit.com/CSEIT228615)
+
+---
+
+### 🛰️ Let’s Build the Future Together!
+
+I’m actively exploring **full-time opportunities** in **Data Engineering** from **May 2025**.  
+Let’s connect, collaborate, and create something that scales 🚀
+
+> _“Engineer the pipelines that power the world’s decisions.”_
+
+---
+
+📍 *Live in the cloud. Code with clarity. Optimize everything.*
