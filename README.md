@@ -98,4 +98,3 @@ Let’s connect, collaborate, and create something that scales 🚀
 
 📍 *Live in the cloud. Code with clarity. Optimize everything.*
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Goutam-P)
