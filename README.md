@@ -46,7 +46,7 @@ I craft cloud-native pipelines that hum at scale, automate workflows like clockw
 
 ---
 
-### 🚀 Highlight Reel
+### 🚀 Experiences
 
 #### 🟢 **US Bank | Data Engineer**
 - ⛓️ Built cross-cloud ETL flows across **Azure & AWS**
